@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hi, I'm Angelo](https://github.com/WanCirone/wancirone/blob/main/assets/hi.gif)
 
 <!--
 **Ajlveloper/Ajlveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
