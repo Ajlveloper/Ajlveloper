@@ -1,4 +1,5 @@
-### hi there
+![Hi, I'm Angelo](https://user-images.githubusercontent.com/78776381/138190660-fb8d885a-077d-4e1c-9240-cced9b519f10.jpg)
+
 
 <!--
 **Ajlveloper/Ajlveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
