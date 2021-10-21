@@ -1,5 +1,33 @@
 ![Hi, I'm Angelo](https://user-images.githubusercontent.com/78776381/138191879-91115ada-df41-4161-8678-68f04d626cdf.gif)
 
+## About me
+
+**Hello, I am 27 years old and I am passionate about classical music as well as rubbing shoulders for hours. One of the things I like the most about creating applications is how surprised I am when I see the final finish.**
+
+**Programming came into my life when I found on Google that it is one of the most demanded jobs and this prompted me to give a better life to my family, then I discovered that this is another of my passions.**
+
+**If you ask me about my work environment, I would tell you what it is to Listen to Tchaicovsky's Sixth Symphony and create one application at a time.**
+
+**Another curious fact about me is that I love to travel the world, thank God I have managed to do it as a professional musician, that's why the banner.**
+
+**I'm currently learning Typescript and React Native.**
+
+## Languages and Tools:
+
+![Javascript](https://user-images.githubusercontent.com/78776381/138197090-619684c2-0bf9-474c-ba40-ca24bec24064.png)
+
+
+## Personal and group projects:
+
+
+## How can you find me:
+
+![gmail](https://user-images.githubusercontent.com/78776381/138198720-0155a4a6-757f-44ba-ace1-eaa337f79e06.png)
+
+
+
+
+
 
 
 <!--
