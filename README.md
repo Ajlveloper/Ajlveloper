@@ -1,4 +1,5 @@
-![Hi, I'm Angelo](https://user-images.githubusercontent.com/78776381/138190660-fb8d885a-077d-4e1c-9240-cced9b519f10.jpg)
+![Hi, I'm Angelo](https://user-images.githubusercontent.com/78776381/138191879-91115ada-df41-4161-8678-68f04d626cdf.gif)
+
 
 
 <!--
