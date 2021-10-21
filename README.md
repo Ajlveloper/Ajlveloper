@@ -22,8 +22,13 @@
 
 ## How can you find me:
 
-![gmail](https://user-images.githubusercontent.com/78776381/138198720-0155a4a6-757f-44ba-ace1-eaa337f79e06.png)
-
+<a href="mailto:ajveloper@gmail.com">
+  <img width="5%"  src="https://user-images.githubusercontent.com/78776381/138199964-d4182049-917a-4f2b-8685-706d49be539e.png"/>
+</a>
+<br/>
+<a href="https://www.linkedin.com/in/angelo-lopez-dev/">
+  <img width="5%"  src="https://user-images.githubusercontent.com/78776381/138199884-3c26ec0e-ffec-4bf7-a931-d2cb01498862.png"/>
+</a>
 
 
 
