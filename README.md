@@ -14,8 +14,7 @@
 
 ## Languages and Tools:
 
-![Javascript](https://user-images.githubusercontent.com/78776381/138197090-619684c2-0bf9-474c-ba40-ca24bec24064.png)
-
+![Javascript(4)](https://user-images.githubusercontent.com/78776381/138359181-af773cfd-d963-4968-ad9a-636e5a4f6d26.png)
 
 ## Personal and group projects:
 
