@@ -21,10 +21,10 @@
 
 ## How can you find me:
 
-<a href="mailto:ajveloper@gmail.com">
+
+<a  href="mailto:ajveloper@gmail.com">
   <img width="5%"  src="https://user-images.githubusercontent.com/78776381/138199964-d4182049-917a-4f2b-8685-706d49be539e.png"/>
-</a>
-<br/>
+</a> 
 <a href="https://www.linkedin.com/in/angelo-lopez-dev/">
   <img width="5%"  src="https://user-images.githubusercontent.com/78776381/138199884-3c26ec0e-ffec-4bf7-a931-d2cb01498862.png"/>
 </a>
