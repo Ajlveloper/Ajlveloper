@@ -18,7 +18,7 @@
 
 ## Personal and group projects:
 
-<a Target="_blank"  href="https://sobedog.vercel.app">Click to see SoBeDog</a>
+<a target="_blank"  href="https://sobedog.vercel.app">Click to see SoBeDog</a>
 
 <img src="./img/Landing%20page%20SoBeDog.gif" width="70%"/>
 
