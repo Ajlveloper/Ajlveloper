@@ -18,7 +18,7 @@
 
 ## Personal and group projects:
 
-<a target="_blank"  href="https://sobedog-git-master-ajlveloper.vercel.app/">Click to see SoBeDog</a>
+<a target="_blank"  href="https://sobedog-kqsevmxg7-ajlveloper.vercel.app/">Click to see SoBeDog</a>
 
 <img src="./img/Landing%20page%20SoBeDog.gif" width="70%"/>
 
