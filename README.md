@@ -18,6 +18,10 @@
 
 ## Personal and group projects:
 
+<a href="https://sobedog.vercel.app">Click to see SoBeDog</a>
+
+<img src="./img/Landing%20page%20SoBeDog.gif" width="70%"/>
+
 
 ## How can you find me:
 
